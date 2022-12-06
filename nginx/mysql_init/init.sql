@@ -48,4 +48,4 @@ INSERT INTO newsparser.`user`
 VALUES(1, 'admin@example.com', '["ADMIN"]', '$2y$13$FPbevjYtlb7pLgbdimJcM.t7x9GAjB4nF8I2lFhIwr0t2VT/zcVRy');
 INSERT INTO newsparser.`user`
 (id, email, roles, password)
-VALUES(2, 'user@example.com', '[]', '$2y$13$FPbevjYtlb7pLgbdimJcM.t7x9GAjB4nF8I2lFhIwr0t2VT/zcVRy');
+VALUES(2, 'moderator@example.com', '[]', '$2y$13$FPbevjYtlb7pLgbdimJcM.t7x9GAjB4nF8I2lFhIwr0t2VT/zcVRy');
